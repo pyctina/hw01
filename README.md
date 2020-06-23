@@ -20,6 +20,8 @@ During my free time, I enjoy doing:
 my github website is: 
 [Tina@GitHub](https://github.com/pyctina)
     
-![](https://assets.entrepreneur.com/article/h1/thank-you.jpg)
+![thank you](https://assets.entrepreneur.com/article/h1/thank-you.jpg)
+
+
 
   
